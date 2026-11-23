@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="tpTitle">
+  <title id="tpTitle">Trisha Peravai — kolam lotus emblem</title>
+  <defs>
+    <radialGradient id="disc" cx="34%" cy="26%" r="82%">
+      <stop offset="0" stop-color="#1E7A46"/>
+      <stop offset="0.55" stop-color="#14532D"/>
+      <stop offset="1" stop-color="#0A321D"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3D98B"/>
+      <stop offset="0.45" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#A88422"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="250" fill="url(#disc)"/>
+  <circle cx="256" cy="256" r="248" fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <circle cx="256" cy="256" r="234" fill="none" stroke="#F3D98B" stroke-opacity=".42" stroke-width="1.5"/>
+  <g fill="#F3D98B" opacity=".55">
+      <circle cx="256.00" cy="44.00" r="2.6"/>
+      <circle cx="310.87" cy="51.22" r="2.6"/>
+      <circle cx="362.00" cy="72.40" r="2.6"/>
+      <circle cx="405.91" cy="106.09" r="2.6"/>
+      <circle cx="439.60" cy="150.00" r="2.6"/>
+      <circle cx="460.78" cy="201.13" r="2.6"/>
+      <circle cx="468.00" cy="256.00" r="2.6"/>
+      <circle cx="460.78" cy="310.87" r="2.6"/>
+      <circle cx="439.60" cy="362.00" r="2.6"/>
+      <circle cx="405.91" cy="405.91" r="2.6"/>
+      <circle cx="362.00" cy="439.60" r="2.6"/>
+      <circle cx="310.87" cy="460.78" r="2.6"/>
+      <circle cx="256.00" cy="468.00" r="2.6"/>
+      <circle cx="201.13" cy="460.78" r="2.6"/>
+      <circle cx="150.00" cy="439.60" r="2.6"/>
+      <circle cx="106.09" cy="405.91" r="2.6"/>
+      <circle cx="72.40" cy="362.00" r="2.6"/>
+      <circle cx="51.22" cy="310.87" r="2.6"/>
+      <circle cx="44.00" cy="256.00" r="2.6"/>
+      <circle cx="51.22" cy="201.13" r="2.6"/>
+      <circle cx="72.40" cy="150.00" r="2.6"/>
+      <circle cx="106.09" cy="106.09" r="2.6"/>
+      <circle cx="150.00" cy="72.40" r="2.6"/>
+      <circle cx="201.13" cy="51.22" r="2.6"/>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(0 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(45 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(90 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(135 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(180 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(225 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(270 256 256)"/><path d="M256 256 C 228 146, 228 144, 256 92 C 284 144, 284 146, 256 256 Z" transform="rotate(315 256 256)"/>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".55">
+    <path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(22.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(67.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(112.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(157.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(202.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(247.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(292.5 256 256)"/><path d="M256 256 C 239 204, 239 210, 256 158 C 273 210, 273 204, 256 256 Z" transform="rotate(337.5 256 256)"/>
+  </g>
+  <circle cx="256" cy="256" r="36" fill="url(#gold)"/>
+  <circle cx="256" cy="256" r="12" fill="url(#disc)"/>
+</svg>

@@ -1,0 +1,1049 @@
+{
+  "trisha-portrait-01": {
+    "slug": "trisha-portrait-01",
+    "category": "portraits",
+    "placement": "hero",
+    "meta": {
+      "title": "File:Tisha Krishnan at PS1 pre release event (1) (cropped).jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tisha_Krishnan_at_PS1_pre_release_event_(1)_(cropped).jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tisha_Krishnan_at_PS1_pre_release_event_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tisha_Krishnan_at_PS1_pre_release_event_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2986,
+      "height": 3749,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Verghese TK",
+      "credit": "Own work",
+      "description": "Tisha Krishnan at Ponniyin Selvan: 1 pre release event"
+    },
+    "image": {
+      "src": "assets/images/portraits/trisha-portrait-01-1600.webp",
+      "width": 1600,
+      "height": 2009,
+      "sizes": {
+        "480": {
+          "file": "assets/images/portraits/trisha-portrait-01-480.webp",
+          "width": 480,
+          "height": 603
+        },
+        "960": {
+          "file": "assets/images/portraits/trisha-portrait-01-960.webp",
+          "width": 960,
+          "height": 1205
+        },
+        "1600": {
+          "file": "assets/images/portraits/trisha-portrait-01-1600.webp",
+          "width": 1600,
+          "height": 2009
+        }
+      },
+      "original_width": 2986,
+      "original_height": 3749
+    }
+  },
+  "trisha-portrait-02": {
+    "slug": "trisha-portrait-02",
+    "category": "portraits",
+    "placement": "about",
+    "meta": {
+      "title": "File:Tisha Krishnan at PS1 pre release event (1).jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tisha_Krishnan_at_PS1_pre_release_event_(1).jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tisha_Krishnan_at_PS1_pre_release_event_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tisha_Krishnan_at_PS1_pre_release_event_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2986,
+      "height": 4480,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Verghese TK",
+      "credit": "Own work",
+      "description": "Tisha Krishnan at Ponniyin Selvan: 1 pre release event"
+    },
+    "image": {
+      "src": "assets/images/portraits/trisha-portrait-02-1600.webp",
+      "width": 1600,
+      "height": 2401,
+      "sizes": {
+        "480": {
+          "file": "assets/images/portraits/trisha-portrait-02-480.webp",
+          "width": 480,
+          "height": 720
+        },
+        "960": {
+          "file": "assets/images/portraits/trisha-portrait-02-960.webp",
+          "width": 960,
+          "height": 1440
+        },
+        "1600": {
+          "file": "assets/images/portraits/trisha-portrait-02-1600.webp",
+          "width": 1600,
+          "height": 2401
+        }
+      },
+      "original_width": 2986,
+      "original_height": 4480
+    }
+  },
+  "trisha-portrait-03": {
+    "slug": "trisha-portrait-03",
+    "category": "portraits",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Tisha Krishnan at PS1 pre release event (2).jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tisha_Krishnan_at_PS1_pre_release_event_(2).jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tisha_Krishnan_at_PS1_pre_release_event_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tisha_Krishnan_at_PS1_pre_release_event_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2986,
+      "height": 4480,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Verghese TK",
+      "credit": "Own work",
+      "description": "Tisha Krishnan at Ponniyin Selvan: 1 pre release event"
+    },
+    "image": {
+      "src": "assets/images/portraits/trisha-portrait-03-1600.webp",
+      "width": 1600,
+      "height": 2401,
+      "sizes": {
+        "480": {
+          "file": "assets/images/portraits/trisha-portrait-03-480.webp",
+          "width": 480,
+          "height": 720
+        },
+        "960": {
+          "file": "assets/images/portraits/trisha-portrait-03-960.webp",
+          "width": 960,
+          "height": 1440
+        },
+        "1600": {
+          "file": "assets/images/portraits/trisha-portrait-03-1600.webp",
+          "width": 1600,
+          "height": 2401
+        }
+      },
+      "original_width": 2986,
+      "original_height": 4480
+    }
+  },
+  "trisha-portrait-04": {
+    "slug": "trisha-portrait-04",
+    "category": "portraits",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Tisha Krishnan at PS1 pre release event (4).jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tisha_Krishnan_at_PS1_pre_release_event_(4).jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tisha_Krishnan_at_PS1_pre_release_event_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tisha_Krishnan_at_PS1_pre_release_event_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2986,
+      "height": 4480,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Verghese TK",
+      "credit": "Own work",
+      "description": "Tisha Krishnan at Ponniyin Selvan: 1 pre release event"
+    },
+    "image": {
+      "src": "assets/images/portraits/trisha-portrait-04-1600.webp",
+      "width": 1600,
+      "height": 2401,
+      "sizes": {
+        "480": {
+          "file": "assets/images/portraits/trisha-portrait-04-480.webp",
+          "width": 480,
+          "height": 720
+        },
+        "960": {
+          "file": "assets/images/portraits/trisha-portrait-04-960.webp",
+          "width": 960,
+          "height": 1440
+        },
+        "1600": {
+          "file": "assets/images/portraits/trisha-portrait-04-1600.webp",
+          "width": 1600,
+          "height": 2401
+        }
+      },
+      "original_width": 2986,
+      "original_height": 4480
+    }
+  },
+  "trisha-portrait-05": {
+    "slug": "trisha-portrait-05",
+    "category": "portraits",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha Krishnan at PS1 pre release event (3) (cropped).jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_Krishnan_at_PS1_pre_release_event_(3)_(cropped).jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Trisha_Krishnan_at_PS1_pre_release_event_%283%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Trisha_Krishnan_at_PS1_pre_release_event_%283%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2985,
+      "height": 4032,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Verghese TK",
+      "credit": "Own work",
+      "description": "Trisha Krishnan at Ponniyin Selvan: 1 pre release event"
+    },
+    "image": {
+      "src": "assets/images/portraits/trisha-portrait-05-1600.webp",
+      "width": 1600,
+      "height": 2161,
+      "sizes": {
+        "480": {
+          "file": "assets/images/portraits/trisha-portrait-05-480.webp",
+          "width": 480,
+          "height": 648
+        },
+        "960": {
+          "file": "assets/images/portraits/trisha-portrait-05-960.webp",
+          "width": 960,
+          "height": 1297
+        },
+        "1600": {
+          "file": "assets/images/portraits/trisha-portrait-05-1600.webp",
+          "width": 1600,
+          "height": 2161
+        }
+      },
+      "original_width": 2985,
+      "original_height": 4032
+    }
+  },
+  "trisha-event-01": {
+    "slug": "trisha-event-01",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha at Celebrity Cricket League, 2014.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_at_Celebrity_Cricket_League,_2014.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Trisha_at_Celebrity_Cricket_League%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Trisha_at_Celebrity_Cricket_League%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 585,
+      "height": 881,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Bollywood Hungama",
+      "credit": "http://www.bollywoodhungama.com/more/photos/view/stills/parties-and-events/id/2382015",
+      "description": "Trisha at Celebrity Cricket League 2014 held at the DY Patil Stadium, in Mumbai, on January 25, 2014."
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-event-01-585.webp",
+      "width": 585,
+      "height": 881,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-event-01-480.webp",
+          "width": 480,
+          "height": 723
+        },
+        "585": {
+          "file": "assets/images/screen/trisha-event-01-585.webp",
+          "width": 585,
+          "height": 881
+        }
+      },
+      "original_width": 585,
+      "original_height": 881
+    }
+  },
+  "trisha-screen-01": {
+    "slug": "trisha-screen-01",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha Krishnan still3.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_Krishnan_still3.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trisha_Krishnan_still3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trisha_Krishnan_still3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 402,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Bollywood Hungama",
+      "credit": "http://www.bollywoodhungama.com/stills/partiesnevents/Trisha_poses_with_Guinness_World_Records_certificate_for_Colgate_and_IDA/still130269.html",
+      "description": "Trisha Krishnan"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-screen-01-600.webp",
+      "width": 600,
+      "height": 402,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-screen-01-480.webp",
+          "width": 480,
+          "height": 322
+        },
+        "600": {
+          "file": "assets/images/screen/trisha-screen-01-600.webp",
+          "width": 600,
+          "height": 402
+        }
+      },
+      "original_width": 600,
+      "original_height": 402
+    }
+  },
+  "trisha-screen-02": {
+    "slug": "trisha-screen-02",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha Krishnan still6.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_Krishnan_still6.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Trisha_Krishnan_still6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Trisha_Krishnan_still6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 402,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Bollywood Hungama",
+      "credit": "http://www.bollywoodhungama.com/stills/partiesnevents/Trisha_poses_with_Guinness_World_Records_certificate_for_Colgate_and_IDA/still130272.html",
+      "description": "Trisha poses with Guinness World Records certificate for Colgate and IDA"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-screen-02-600.webp",
+      "width": 600,
+      "height": 402,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-screen-02-480.webp",
+          "width": 480,
+          "height": 322
+        },
+        "600": {
+          "file": "assets/images/screen/trisha-screen-02-600.webp",
+          "width": 600,
+          "height": 402
+        }
+      },
+      "original_width": 600,
+      "original_height": 402
+    }
+  },
+  "trisha-event-02": {
+    "slug": "trisha-event-02",
+    "category": "screen",
+    "placement": "news",
+    "meta": {
+      "title": "File:Trisha at World Children's Day Press Meet 2017.png",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_at_World_Children%27s_Day_Press_Meet_2017.png",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trisha_at_World_Children%27s_Day_Press_Meet_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trisha_at_World_Children%27s_Day_Press_Meet_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 410,
+      "height": 582,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "InandoutCinema",
+      "credit": "YouTube : https://www.youtube.com/watch?v=S_OXRZf4cfk – View/save archived versions on archive.org time:0:08",
+      "description": "Trisha at World Children's Day Press Meet 2017"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-event-02-410.webp",
+      "width": 410,
+      "height": 582,
+      "sizes": {
+        "410": {
+          "file": "assets/images/screen/trisha-event-02-410.webp",
+          "width": 410,
+          "height": 582
+        }
+      },
+      "original_width": 410,
+      "original_height": 582
+    }
+  },
+  "trisha-event-03": {
+    "slug": "trisha-event-03",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha Krishnan at 65th Jio filmfare awards date announcement.png",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_Krishnan_at_65th_Jio_filmfare_awards_date_announcement.png",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Trisha_Krishnan_at_65th_Jio_filmfare_awards_date_announcement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Trisha_Krishnan_at_65th_Jio_filmfare_awards_date_announcement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 533,
+      "height": 572,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Abhinaya TV",
+      "credit": "YouTube : https://www.youtube.com/watch?v=h2Nvc2urKas – View/save archived versions on archive.org time:0:17",
+      "description": "Trisha Krishnan at 65th Jio filmfare awards date announcement"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-event-03-533.webp",
+      "width": 533,
+      "height": 572,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-event-03-480.webp",
+          "width": 480,
+          "height": 515
+        },
+        "533": {
+          "file": "assets/images/screen/trisha-event-03-533.webp",
+          "width": 533,
+          "height": 572
+        }
+      },
+      "original_width": 533,
+      "original_height": 572
+    }
+  },
+  "trisha-event-04": {
+    "slug": "trisha-event-04",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha Krishnan and Vijay Sethupathi at the launch of the Movie '96'.png",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_Krishnan_and_Vijay_Sethupathi_at_the_launch_of_the_Movie_%2796%27.png",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Trisha_Krishnan_and_Vijay_Sethupathi_at_the_launch_of_the_Movie_%2796%27.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Trisha_Krishnan_and_Vijay_Sethupathi_at_the_launch_of_the_Movie_%2796%27.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1012,
+      "height": 578,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Abhinaya TV",
+      "credit": "YouTube : https://www.youtube.com/watch?v=Bx2V1nR9whU – View/save archived versions on archive.org time:1:36",
+      "description": "Trisha Krishnan and Vijay Sethupathi at the launch of the Movie '96'"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-event-04-1012.webp",
+      "width": 1012,
+      "height": 578,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-event-04-480.webp",
+          "width": 480,
+          "height": 274
+        },
+        "960": {
+          "file": "assets/images/screen/trisha-event-04-960.webp",
+          "width": 960,
+          "height": 548
+        },
+        "1012": {
+          "file": "assets/images/screen/trisha-event-04-1012.webp",
+          "width": 1012,
+          "height": 578
+        }
+      },
+      "original_width": 1012,
+      "original_height": 578
+    }
+  },
+  "trisha-event-05": {
+    "slug": "trisha-event-05",
+    "category": "screen",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Trisha at the launch of the movie 96.png",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trisha_at_the_launch_of_the_movie_96.png",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Trisha_at_the_launch_of_the_movie_96.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Trisha_at_the_launch_of_the_movie_96.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 510,
+      "height": 572,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Anhinaya tv",
+      "credit": "YouTube : https://www.youtube.com/watch?v=Bx2V1nR9whU – View/save archived versions on archive.org time:1:47",
+      "description": "Trisha at the launch of the movie 96"
+    },
+    "image": {
+      "src": "assets/images/screen/trisha-event-05-510.webp",
+      "width": 510,
+      "height": 572,
+      "sizes": {
+        "480": {
+          "file": "assets/images/screen/trisha-event-05-480.webp",
+          "width": 480,
+          "height": 538
+        },
+        "510": {
+          "file": "assets/images/screen/trisha-event-05-510.webp",
+          "width": 510,
+          "height": 572
+        }
+      },
+      "original_width": 510,
+      "original_height": 572
+    }
+  },
+  "culture-01": {
+    "slug": "culture-01",
+    "category": "culture",
+    "placement": "vision",
+    "meta": {
+      "title": "File:Bharatanatyam is a major form of Indian classical dance that originated in the state of Tamil Nadu.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 5616,
+      "height": 3744,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vijay Sundararaman Iyer",
+      "credit": "Own work",
+      "description": "Bharatanatyam an Indian classical dance originated in Tamil Nadu"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-01-1600.webp",
+      "width": 1600,
+      "height": 1067,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-01-480.webp",
+          "width": 480,
+          "height": 320
+        },
+        "960": {
+          "file": "assets/images/culture/culture-01-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-01-1600.webp",
+          "width": 1600,
+          "height": 1067
+        }
+      },
+      "original_width": 5616,
+      "original_height": 3744
+    }
+  },
+  "culture-02": {
+    "slug": "culture-02",
+    "category": "culture",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Chennai Kapaleeshwarar Temple.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chennai_Kapaleeshwarar_Temple.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chennai_Kapaleeshwarar_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chennai_Kapaleeshwarar_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1080,
+      "height": 1350,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Thilip thiru",
+      "credit": "Own work",
+      "description": "Kapaleeshwarar Temple is a Hindu temple dedicated to lord Shiva located in Mylapore, Chennai in the Indianstate of Tamil Nadu. The form of Shiva's consort Parvati worshipped at this temple is called Karpagambal is from Tamil (\"Goddess of the Wish-Yielding Tree\")"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-02-1080.webp",
+      "width": 1080,
+      "height": 1350,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-02-480.webp",
+          "width": 480,
+          "height": 600
+        },
+        "960": {
+          "file": "assets/images/culture/culture-02-960.webp",
+          "width": 960,
+          "height": 1200
+        },
+        "1080": {
+          "file": "assets/images/culture/culture-02-1080.webp",
+          "width": 1080,
+          "height": 1350
+        }
+      },
+      "original_width": 1080,
+      "original_height": 1350
+    }
+  },
+  "culture-03": {
+    "slug": "culture-03",
+    "category": "culture",
+    "placement": "about",
+    "meta": {
+      "title": "File:A girl performing a Bharatanatyam dance at a Pongal Festival in Namakkal, Tamil Nadu, India.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_girl_performing_a_Bharatanatyam_dance_at_a_Pongal_Festival_in_Namakkal,_Tamil_Nadu,_India.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_girl_performing_a_Bharatanatyam_dance_at_a_Pongal_Festival_in_Namakkal%2C_Tamil_Nadu%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_girl_performing_a_Bharatanatyam_dance_at_a_Pongal_Festival_in_Namakkal%2C_Tamil_Nadu%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2881,
+      "height": 1921,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Matthew T Rader",
+      "credit": "Namakkal, India, A Day Of Rekla Races And A Massive Pongal Festival Own work",
+      "description": "A girl performing a Bharatanatyam dance at a Pongal Festival in Namakkal, Tamil Nadu, India"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-03-1600.webp",
+      "width": 1600,
+      "height": 1067,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-03-480.webp",
+          "width": 480,
+          "height": 320
+        },
+        "960": {
+          "file": "assets/images/culture/culture-03-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-03-1600.webp",
+          "width": 1600,
+          "height": 1067
+        }
+      },
+      "original_width": 2881,
+      "original_height": 1921
+    }
+  },
+  "culture-04": {
+    "slug": "culture-04",
+    "category": "culture",
+    "placement": "events",
+    "meta": {
+      "title": "File:A man dancing with fire at a Pongal Festival in Namakkal, Tamil Nadu, India.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_man_dancing_with_fire_at_a_Pongal_Festival_in_Namakkal,_Tamil_Nadu,_India.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/A_man_dancing_with_fire_at_a_Pongal_Festival_in_Namakkal%2C_Tamil_Nadu%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/A_man_dancing_with_fire_at_a_Pongal_Festival_in_Namakkal%2C_Tamil_Nadu%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 3008,
+      "height": 2000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Matthew T Rader",
+      "credit": "Namakkal, India, A Day Of Rekla Races And A Massive Pongal Festival Own work",
+      "description": "A man dancing with fire at a Pongal Festival in Namakkal, Tamil Nadu, India"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-04-1600.webp",
+      "width": 1600,
+      "height": 1064,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-04-480.webp",
+          "width": 480,
+          "height": 319
+        },
+        "960": {
+          "file": "assets/images/culture/culture-04-960.webp",
+          "width": 960,
+          "height": 638
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-04-1600.webp",
+          "width": 1600,
+          "height": 1064
+        }
+      },
+      "original_width": 3008,
+      "original_height": 2000
+    }
+  },
+  "culture-05": {
+    "slug": "culture-05",
+    "category": "culture",
+    "placement": "news",
+    "meta": {
+      "title": "File:2019 kolam decoration for Pongal festival, South India.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019_kolam_decoration_for_Pongal_festival,_South_India.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2019_kolam_decoration_for_Pongal_festival%2C_South_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2019_kolam_decoration_for_Pongal_festival%2C_South_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 4032,
+      "height": 2982,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Jason Chung",
+      "credit": "https://www.flickr.com/photos/jsonchung/33314940508/",
+      "description": "Pongal festival is celebrated in South India, particularly by the Tamil community around mid January every year."
+    },
+    "image": {
+      "src": "assets/images/culture/culture-05-1600.webp",
+      "width": 1600,
+      "height": 1183,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-05-480.webp",
+          "width": 480,
+          "height": 355
+        },
+        "960": {
+          "file": "assets/images/culture/culture-05-960.webp",
+          "width": 960,
+          "height": 710
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-05-1600.webp",
+          "width": 1600,
+          "height": 1183
+        }
+      },
+      "original_width": 4032,
+      "original_height": 2982
+    }
+  },
+  "culture-06": {
+    "slug": "culture-06",
+    "category": "culture",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Veg Full Meals in Tamil Nadu.JPG",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Veg_Full_Meals_in_Tamil_Nadu.JPG",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Veg_Full_Meals_in_Tamil_Nadu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Veg_Full_Meals_in_Tamil_Nadu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1721,
+      "height": 1760,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "KARTY JazZ",
+      "credit": "Own work",
+      "description": "Veg Meals in Tamil Nadu,India traditionally served in banana leaf"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-06-1600.webp",
+      "width": 1600,
+      "height": 1636,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-06-480.webp",
+          "width": 480,
+          "height": 491
+        },
+        "960": {
+          "file": "assets/images/culture/culture-06-960.webp",
+          "width": 960,
+          "height": 982
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-06-1600.webp",
+          "width": 1600,
+          "height": 1636
+        }
+      },
+      "original_width": 1721,
+      "original_height": 1760
+    }
+  },
+  "culture-07": {
+    "slug": "culture-07",
+    "category": "culture",
+    "placement": "events",
+    "meta": {
+      "title": "File:2011 Dance Drama celebration, Pongal festival, Chennai Sangamam.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2011_Dance_Drama_celebration,_Pongal_festival,_Chennai_Sangamam.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2011_Dance_Drama_celebration%2C_Pongal_festival%2C_Chennai_Sangamam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2011_Dance_Drama_celebration%2C_Pongal_festival%2C_Chennai_Sangamam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1914,
+      "height": 1026,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "B Balaji",
+      "credit": "https://www.flickr.com/photos/bbalaji/5358253385/",
+      "description": "A dance drama performance during the 2011 Pongal festival in Chennai"
+    },
+    "image": {
+      "src": "assets/images/culture/culture-07-1600.webp",
+      "width": 1600,
+      "height": 858,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/culture-07-480.webp",
+          "width": 480,
+          "height": 257
+        },
+        "960": {
+          "file": "assets/images/culture/culture-07-960.webp",
+          "width": 960,
+          "height": 515
+        },
+        "1600": {
+          "file": "assets/images/culture/culture-07-1600.webp",
+          "width": 1600,
+          "height": 858
+        }
+      },
+      "original_width": 1914,
+      "original_height": 1026
+    }
+  },
+  "place-01": {
+    "slug": "place-01",
+    "category": "community",
+    "placement": "contact",
+    "meta": {
+      "title": "File:Marina Beach in Chennai.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marina_Beach_in_Chennai.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Marina_Beach_in_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Marina_Beach_in_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 4150,
+      "height": 2743,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Dey.sandip",
+      "credit": "Own work",
+      "description": "Pigeons fly over the Marina beach in Chennai in the morning."
+    },
+    "image": {
+      "src": "assets/images/community/place-01-1600.webp",
+      "width": 1600,
+      "height": 1058,
+      "sizes": {
+        "480": {
+          "file": "assets/images/community/place-01-480.webp",
+          "width": 480,
+          "height": 317
+        },
+        "960": {
+          "file": "assets/images/community/place-01-960.webp",
+          "width": 960,
+          "height": 635
+        },
+        "1600": {
+          "file": "assets/images/community/place-01-1600.webp",
+          "width": 1600,
+          "height": 1058
+        }
+      },
+      "original_width": 4150,
+      "original_height": 2743
+    }
+  },
+  "place-02": {
+    "slug": "place-02",
+    "category": "culture",
+    "placement": "about",
+    "meta": {
+      "title": "File:Fields Akoni Nilgiris Tamil Nadu Nov24 A7CR 05287.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fields_Akoni_Nilgiris_Tamil_Nadu_Nov24_A7CR_05287.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fields_Akoni_Nilgiris_Tamil_Nadu_Nov24_A7CR_05287.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fields_Akoni_Nilgiris_Tamil_Nadu_Nov24_A7CR_05287.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 9191,
+      "height": 6127,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Timothy A. Gonsalves",
+      "credit": "Own work",
+      "description": "Woman cultivating radish field in foreground, garlic to the right. Akoni village, Udhagai taluk, The Nilgiris, Tamil Nadu, India"
+    },
+    "image": {
+      "src": "assets/images/culture/place-02-1600.webp",
+      "width": 1600,
+      "height": 1067,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/place-02-480.webp",
+          "width": 480,
+          "height": 320
+        },
+        "960": {
+          "file": "assets/images/culture/place-02-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        "1600": {
+          "file": "assets/images/culture/place-02-1600.webp",
+          "width": 1600,
+          "height": 1067
+        }
+      },
+      "original_width": 9191,
+      "original_height": 6127
+    }
+  },
+  "place-03": {
+    "slug": "place-03",
+    "category": "community",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Chennai-Skyline-from-Mount.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chennai-Skyline-from-Mount.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Chennai-Skyline-from-Mount.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Chennai-Skyline-from-Mount.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 5949,
+      "height": 3966,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Karthikeyan321",
+      "credit": "Own work",
+      "description": "Chennai City Skyline from St.Thomas Mount"
+    },
+    "image": {
+      "src": "assets/images/community/place-03-1600.webp",
+      "width": 1600,
+      "height": 1067,
+      "sizes": {
+        "480": {
+          "file": "assets/images/community/place-03-480.webp",
+          "width": 480,
+          "height": 320
+        },
+        "960": {
+          "file": "assets/images/community/place-03-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        "1600": {
+          "file": "assets/images/community/place-03-1600.webp",
+          "width": 1600,
+          "height": 1067
+        }
+      },
+      "original_width": 5949,
+      "original_height": 3966
+    }
+  },
+  "place-04": {
+    "slug": "place-04",
+    "category": "culture",
+    "placement": "gallery",
+    "meta": {
+      "title": "File:Festival Gathering in Tamil Nadu.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Festival_Gathering_in_Tamil_Nadu.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Festival_Gathering_in_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Festival_Gathering_in_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1600,
+      "height": 713,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Sanjana Krishnamoorthy",
+      "credit": "Own work",
+      "description": "Crowd gathered during a temple festival"
+    },
+    "image": {
+      "src": "assets/images/culture/place-04-1600.webp",
+      "width": 1600,
+      "height": 713,
+      "sizes": {
+        "480": {
+          "file": "assets/images/culture/place-04-480.webp",
+          "width": 480,
+          "height": 214
+        },
+        "960": {
+          "file": "assets/images/culture/place-04-960.webp",
+          "width": 960,
+          "height": 428
+        },
+        "1600": {
+          "file": "assets/images/culture/place-04-1600.webp",
+          "width": 1600,
+          "height": 713
+        }
+      },
+      "original_width": 1600,
+      "original_height": 713
+    }
+  },
+  "community-01": {
+    "slug": "community-01",
+    "category": "community",
+    "placement": "members",
+    "meta": {
+      "title": "File:Children planting in Chalakudy River bank.JPG",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Children_planting_in_Chalakudy_River_bank.JPG",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Children_planting_in_Chalakudy_River_bank.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Children_planting_in_Chalakudy_River_bank.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Zabna",
+      "credit": "Own work",
+      "description": "Riparian Restoration efforts from Chalakudy- Canary Club members planting riparian species at Vettukadavu"
+    },
+    "image": {
+      "src": "assets/images/community/community-01-1600.webp",
+      "width": 1600,
+      "height": 1200,
+      "sizes": {
+        "480": {
+          "file": "assets/images/community/community-01-480.webp",
+          "width": 480,
+          "height": 360
+        },
+        "960": {
+          "file": "assets/images/community/community-01-960.webp",
+          "width": 960,
+          "height": 720
+        },
+        "1600": {
+          "file": "assets/images/community/community-01-1600.webp",
+          "width": 1600,
+          "height": 1200
+        }
+      },
+      "original_width": 4608,
+      "original_height": 3456
+    }
+  },
+  "community-02": {
+    "slug": "community-02",
+    "category": "community",
+    "placement": "news",
+    "meta": {
+      "title": "File:Distribution of Shoes and Socks to Primary School Children.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Distribution_of_Shoes_and_Socks_to_Primary_School_Children.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Distribution_of_Shoes_and_Socks_to_Primary_School_Children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Distribution_of_Shoes_and_Socks_to_Primary_School_Children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 960,
+      "height": 614,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vinod Kumar (Educator)",
+      "credit": "Own work",
+      "description": "Distribution of shoes and socks to economically weaker children studying in Indian government primary school (Classes 1 to 5) as part of voluntary social welfare efforts carried out by me along with my team."
+    },
+    "image": {
+      "src": "assets/images/community/community-02-960.webp",
+      "width": 960,
+      "height": 614,
+      "sizes": {
+        "480": {
+          "file": "assets/images/community/community-02-480.webp",
+          "width": 480,
+          "height": 307
+        },
+        "960": {
+          "file": "assets/images/community/community-02-960.webp",
+          "width": 960,
+          "height": 614
+        }
+      },
+      "original_width": 960,
+      "original_height": 614
+    }
+  },
+  "community-03": {
+    "slug": "community-03",
+    "category": "community",
+    "placement": "events",
+    "meta": {
+      "title": "File:Blood donation camp at Kelvin.jpg",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blood_donation_camp_at_Kelvin.jpg",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Blood_donation_camp_at_Kelvin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalurl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Blood_donation_camp_at_Kelvin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 960,
+      "height": 720,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "PriyankaBerry18",
+      "credit": "Own work",
+      "description": "Blood Donation Camp"
+    },
+    "image": {
+      "src": "assets/images/community/community-03-960.webp",
+      "width": 960,
+      "height": 720,
+      "sizes": {
+        "480": {
+          "file": "assets/images/community/community-03-480.webp",
+          "width": 480,
+          "height": 360
+        },
+        "960": {
+          "file": "assets/images/community/community-03-960.webp",
+          "width": 960,
+          "height": 720
+        }
+      },
+      "original_width": 960,
+      "original_height": 720
+    }
+  }
+}
