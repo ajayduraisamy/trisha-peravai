@@ -8,45 +8,94 @@
     return window.I18N ? window.I18N.t(key, vars) : key;
   }
 
-  /* ---------------------------------------------------------------- mobile nav */
+  /* ---------------------------------------------------------------- nav more */
+  function initNavMore() {
+    var nav = document.querySelector("[data-main-nav]");
+    var more = document.querySelector("[data-nav-more]");
+    var moreBtn = document.querySelector("[data-nav-more-btn]");
+    var moreMenu = document.querySelector("[data-nav-more-menu]");
+    if (!nav || !more || !moreBtn || !moreMenu) return;
+
+    function closeMore() { more.classList.remove("is-open"); moreBtn.setAttribute("aria-expanded", "false"); }
+
+    moreBtn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var open = more.classList.toggle("is-open");
+      moreBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    document.addEventListener("click", function (e) { if (more.classList.contains("is-open") && !more.contains(e.target)) closeMore(); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && more.classList.contains("is-open")) { closeMore(); moreBtn.focus(); } });
+
+    function layout() {
+      closeMore();
+      // move all back
+      [].slice.call(moreMenu.querySelectorAll("[data-nav-item]")).forEach(function (a) { nav.insertBefore(a, more); });
+      more.hidden = true;
+      if (window.innerWidth < 1200) return;
+      var items = [].slice.call(nav.querySelectorAll("[data-nav-item]"));
+      if (!items.length) return;
+      // check overflow
+      function overflows() { return nav.scrollWidth > nav.clientWidth + 2; }
+      if (!overflows()) return;
+      more.hidden = false;
+      for (var i = items.length - 1; i >= 0; i--) {
+        moreMenu.insertBefore(items[i], moreMenu.firstChild);
+        if (!overflows()) break;
+      }
+      if (!moreMenu.children.length) more.hidden = true;
+      moreBtn.classList.toggle("is-active", !!moreMenu.querySelector(".is-active"));
+    }
+
+    var raf;
+    window.addEventListener("resize", function () { cancelAnimationFrame(raf); raf = requestAnimationFrame(layout); });
+    if (window.I18N) document.addEventListener("languagechange", function () { layout(); });
+    layout();
+    // re-run after fonts/icons settle
+    window.addEventListener("load", layout);
+    setTimeout(layout, 200);
+  }
+
+  /* ---------------------------------------------------------------- nav dropdown */
   function initMobileNav() {
     var toggle = document.querySelector("[data-nav-toggle]");
-    var panel = document.querySelector("[data-mobile-nav]");
-    if (!toggle || !panel) return;
+    var dropdown = document.querySelector("[data-nav-dropdown]");
+    var wrap = document.querySelector("[data-nav-wrap]");
+    if (!toggle || !dropdown) return;
 
     var setOpen = function (open) {
-      panel.classList.toggle("is-open", open);
-      document.body.classList.toggle("nav-open", open);
+      dropdown.classList.toggle("is-open", open);
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
       toggle.setAttribute("aria-label", t(open ? "nav.closeMenu" : "nav.openMenu"));
-      /* Lucide swaps <i> for <svg>, so query the current nodes each time. */
-      var openLabel = toggle.querySelector(".icon-open");
-      var closeLabel = toggle.querySelector(".icon-close");
-      if (openLabel) openLabel.hidden = open;
-      if (closeLabel) closeLabel.hidden = !open;
       if (open) {
-        var first = panel.querySelector("a");
-        if (first) window.setTimeout(function () { first.focus(); }, 120);
+        var first = dropdown.querySelector("a");
+        if (first) window.setTimeout(function () { first.focus(); }, 60);
       }
     };
 
-    toggle.addEventListener("click", function () {
-      setOpen(toggle.getAttribute("aria-expanded") !== "true");
+    toggle.addEventListener("click", function (event) {
+      event.stopPropagation();
+      setOpen(!dropdown.classList.contains("is-open"));
     });
 
-    panel.querySelectorAll("a").forEach(function (link) {
+    dropdown.querySelectorAll("a").forEach(function (link) {
       link.addEventListener("click", function () { setOpen(false); });
     });
 
+    document.addEventListener("click", function (event) {
+      if (!dropdown.classList.contains("is-open")) return;
+      if (wrap && wrap.contains(event.target)) return;
+      setOpen(false);
+    });
+
     document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape" && panel.classList.contains("is-open")) {
+      if (event.key === "Escape" && dropdown.classList.contains("is-open")) {
         setOpen(false);
         toggle.focus();
       }
     });
 
     document.addEventListener("languagechange", function () {
-      var open = panel.classList.contains("is-open");
+      var open = dropdown.classList.contains("is-open");
       toggle.setAttribute("aria-label", t(open ? "nav.closeMenu" : "nav.openMenu"));
     });
   }
@@ -147,8 +196,10 @@
       if (!value) return "validation.subjectRequired";
       return null;
     },
-    interest: function (value) {
-      if (!value) return "validation.interestRequired";
+    phone: function (value) {
+      if (!value) return "validation.phoneRequired";
+      var digits = value.replace(/\D/g, "");
+      if (digits.length < 7) return "validation.phoneInvalid";
       return null;
     },
     message: function (value) {
@@ -307,6 +358,7 @@
   }
 
   function init() {
+    initNavMore();
     initMobileNav();
     initYear();
     initBackToTop();

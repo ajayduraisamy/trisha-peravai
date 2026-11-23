@@ -176,7 +176,7 @@ html[lang="ta"] .hero__title {
 
 .hero-float--note {
   bottom: 9%;
-  right: -26px;
+  left: -26px;
   animation-delay: 1.6s;
 }
 
@@ -1951,24 +1951,11 @@ html[lang="ta"] .faq-item summary {
 }
 
 @media (max-width: 1080px) {
-  .main-nav,
-  .header-actions .btn--primary {
-    display: none;
-  }
-  .nav-toggle {
-    display: inline-flex;
-  }
-  .mobile-nav {
-    display: block;
-  }
-  .header-actions {
-    margin-left: auto;
-  }
   .hero-float--badge {
     left: -10px;
   }
   .hero-float--note {
-    right: -6px;
+    left: -6px;
   }
   .gallery-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -2141,7 +2128,7 @@ html[lang="ta"] .faq-item summary {
   }
   .hero-float--note {
     bottom: 5%;
-    right: -4px;
+    left: -4px;
   }
   .hero-float__icon {
     width: 31px;

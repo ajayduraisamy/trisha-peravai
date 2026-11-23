@@ -73,53 +73,49 @@
       <img class="brand__mark" src="assets/images/logo/emblem-96.webp" width="52" height="52" alt="திரிஷா பேரவை சின்னம்" data-i18n-alt="a11y.logo">
       <span class="brand__text"><span class="brand__kicker" data-i18n="brand.kicker">இளைய புரட்சித் தலைவி</span><span class="brand__name" data-i18n="brand.name">திரிஷா பேரவை</span><span class="brand__sub" data-i18n="brand.sub">TRISHA PERAVAI</span></span>
     </a>
-    <nav class="main-nav" aria-label="பிரதான வழிசெலுத்தல்" data-i18n-aria-label="nav.mainAria">
-      <a href="index.html" class="nav-link" data-i18n="nav.home">முகப்பு</a>
-<a href="about.html" class="nav-link is-active" aria-current="page" data-i18n="nav.about">எங்களைப் பற்றி</a>
-<a href="vision.html" class="nav-link" data-i18n="nav.vision">எங்கள் நோக்கம்</a>
-<a href="gallery.html" class="nav-link" data-i18n="nav.gallery">படத்தொகுப்பு</a>
-<a href="news.html" class="nav-link" data-i18n="nav.news">செய்திகள்</a>
-<a href="events.html" class="nav-link" data-i18n="nav.events">நிகழ்வுகள்</a>
-<a href="members.html" class="nav-link" data-i18n="nav.members">உறுப்பினர்கள்</a>
-<a href="contact.html" class="nav-link" data-i18n="nav.contact">தொடர்பு</a>
+    <nav class="main-nav" aria-label="பிரதான வழிசெலுத்தல்" data-i18n-aria-label="nav.mainAria" data-main-nav>
+      <a href="index.html" class="nav-link" data-i18n="nav.home" data-nav-item>முகப்பு</a>
+      <a href="about.html" class="nav-link is-active" aria-current="page" data-i18n="nav.about" data-nav-item>எங்களைப் பற்றி</a>
+      <a href="vision.html" class="nav-link" data-i18n="nav.vision" data-nav-item>அரசியல் பார்வை</a>
+      <a href="leadership.html" class="nav-link" data-i18n="nav.leadership" data-nav-item>தலைமை & அமைப்பு</a>
+      <a href="welfare.html" class="nav-link" data-i18n="nav.welfare" data-nav-item>மக்கள் நலன்</a>
+      <a href="news.html" class="nav-link" data-i18n="nav.news" data-nav-item>அரசியல் புதுப்பிப்புகள்</a>
+      <a href="press.html" class="nav-link" data-i18n="nav.press" data-nav-item>செய்தி அறிக்கைகள்</a>
+      <a href="events.html" class="nav-link" data-i18n="nav.events" data-nav-item>நிகழ்வுகள்</a>
+      <a href="gallery.html" class="nav-link" data-i18n="nav.gallery" data-nav-item>புகைப்படங்கள்</a>
+      <a href="members.html" class="nav-link" data-i18n="nav.members" data-nav-item>உறுப்பினர் சேர்க்கை</a>
+      <a href="contact.html" class="nav-link" data-i18n="nav.contact" data-nav-item>தொடர்புக்கு</a>
+      <div class="nav-more" data-nav-more hidden>
+        <button class="nav-link nav-more__btn" type="button" data-nav-more-btn aria-expanded="false" aria-haspopup="true"><span data-i18n="nav.more">மேலும்</span><i data-lucide="chevron-down" aria-hidden="true"></i></button>
+        <div class="nav-more__menu" data-nav-more-menu></div>
+      </div>
     </nav>
     <div class="header-actions">
       <div class="lang-switch" role="group" aria-label="இணையதள மொழியைத் தேர்ந்தெடுக்கவும்" data-i18n-aria-label="a11y.langSwitch">
         <button type="button" data-lang-switch="ta" aria-pressed="true" lang="ta">தமிழ்</button>
         <button type="button" data-lang-switch="en" aria-pressed="false" lang="en">EN</button>
       </div>
-      <a class="btn btn--primary btn--sm header-join" href="members.html"
-        aria-label="எங்களுடன் இணைக" data-i18n-aria-label="nav.join">
-        <i data-lucide="user-plus" aria-hidden="true"></i><span data-i18n="nav.join">எங்களுடன் இணைக</span>
-      </a>
-      <button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="mobile-nav"
-        aria-label="மெனுவைத் திற">
-        <i data-lucide="menu" class="icon-open" aria-hidden="true"></i>
-        <i data-lucide="x" class="icon-close" aria-hidden="true"></i>
-      </button>
+      <div class="nav-menu-wrap" data-nav-wrap>
+        <button class="nav-menu-btn" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-dropdown" aria-label="மெனுவைத் திற" data-i18n-aria-label="nav.openMenu">
+          <i data-lucide="ellipsis-vertical" aria-hidden="true"></i>
+        </button>
+        <div class="nav-dropdown" id="nav-dropdown" data-nav-dropdown role="menu" aria-label="பிரதான வழிசெலுத்தல்" data-i18n-aria-label="nav.mainAria">
+          <a href="index.html" class="nav-dropdown__link" data-i18n="nav.home"><i data-lucide="home" aria-hidden="true"></i><span>முகப்பு</span></a>
+          <a href="about.html" class="nav-dropdown__link is-active" aria-current="page" data-i18n="nav.about"><i data-lucide="info" aria-hidden="true"></i><span>எங்களைப் பற்றி</span></a>
+          <a href="vision.html" class="nav-dropdown__link" data-i18n="nav.vision"><i data-lucide="eye" aria-hidden="true"></i><span>அரசியல் பார்வை</span></a>
+          <a href="leadership.html" class="nav-dropdown__link" data-i18n="nav.leadership"><i data-lucide="users" aria-hidden="true"></i><span>தலைமை & அமைப்பு</span></a>
+          <a href="welfare.html" class="nav-dropdown__link" data-i18n="nav.welfare"><i data-lucide="heart-handshake" aria-hidden="true"></i><span>மக்கள் நலன்</span></a>
+          <a href="news.html" class="nav-dropdown__link" data-i18n="nav.news"><i data-lucide="newspaper" aria-hidden="true"></i><span>அரசியல் புதுப்பிப்புகள்</span></a>
+          <a href="press.html" class="nav-dropdown__link" data-i18n="nav.press"><i data-lucide="megaphone" aria-hidden="true"></i><span>செய்தி அறிக்கைகள்</span></a>
+          <a href="events.html" class="nav-dropdown__link" data-i18n="nav.events"><i data-lucide="calendar-days" aria-hidden="true"></i><span>நிகழ்வுகள்</span></a>
+          <a href="gallery.html" class="nav-dropdown__link" data-i18n="nav.gallery"><i data-lucide="images" aria-hidden="true"></i><span>புகைப்படங்கள்</span></a>
+          <a href="members.html" class="nav-dropdown__link" data-i18n="nav.members"><i data-lucide="user-plus" aria-hidden="true"></i><span>உறுப்பினர் சேர்க்கை</span></a>
+          <a href="contact.html" class="nav-dropdown__link" data-i18n="nav.contact"><i data-lucide="phone" aria-hidden="true"></i><span>தொடர்புக்கு</span></a>
+        </div>
+      </div>
     </div>
   </div>
 </header>
-<div class="mobile-nav" id="mobile-nav" data-mobile-nav>
-  <nav class="mobile-nav__links" aria-label="மொபைல் வழிசெலுத்தல்" data-i18n-aria-label="nav.mobileAria">
-    <a href="index.html"><span data-i18n="nav.home">முகப்பு</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="about.html" class="is-active" aria-current="page"><span data-i18n="nav.about">எங்களைப் பற்றி</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="vision.html"><span data-i18n="nav.vision">எங்கள் நோக்கம்</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="gallery.html"><span data-i18n="nav.gallery">படத்தொகுப்பு</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="news.html"><span data-i18n="nav.news">செய்திகள்</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="events.html"><span data-i18n="nav.events">நிகழ்வுகள்</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="members.html"><span data-i18n="nav.members">உறுப்பினர்கள்</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-<a href="contact.html"><span data-i18n="nav.contact">தொடர்பு</span><i data-lucide="chevron-right" aria-hidden="true"></i></a>
-  </nav>
-  <div class="mobile-nav__footer">
-    <a class="btn btn--primary btn--block" href="members.html">
-      <i data-lucide="heart-handshake" aria-hidden="true"></i><span data-i18n="nav.join">எங்களுடன் இணைக</span>
-    </a>
-    <div class="lang-switch" role="group" aria-label="இணையதள மொழியைத் தேர்ந்தெடுக்கவும்" data-i18n-aria-label="a11y.langSwitch">
-      <button type="button" data-lang-switch="ta" aria-pressed="true" lang="ta">தமிழ்</button>
-      <button type="button" data-lang-switch="en" aria-pressed="false" lang="en">English</button>
-    </div>
-  </div>
 </div>
 
 <main id="main">
@@ -132,8 +128,8 @@
       <span data-i18n="nav.about">எங்களைப் பற்றி</span>
     </nav>
     <p class="eyebrow" data-i18n="about.hero.label">எங்களைப் பற்றி</p>
-    <h1 data-i18n="about.hero.title">மரியாதையுடன் தொடங்கும் ஒரு சமூகம்</h1>
-    <p data-i18n="about.hero.desc">ரசிகைத்துவத்தை பொறுப்பான பங்களிப்பாக மாற்றும் சுயாதீன முயற்சி.</p>
+    <h1 data-i18n="about.hero.title">அமைப்பு அடையாளமும் பொறுப்பான அரசியல் அணுகுமுறையும்</h1>
+    <p data-i18n="about.hero.desc">திரிஷா பேரவையின் நோக்கம், கொள்கைகள், பொது நல முன்னுரிமைகள் மற்றும் சமூக பங்கேற்பு.</p>
   </div>
 </section>
 
@@ -144,11 +140,11 @@
       <span class="media-tag"><i data-lucide="camera" aria-hidden="true"></i><span data-i18n="home.about.photoNote">படம்: உரிமம் பெற்ற நிகழ்வுப் புகைப்படம்</span></span>
     </div>
     <div class="split__body reveal" data-delay="80">
-      <p class="eyebrow" data-i18n="about.story.label">எங்கள் கதை</p>
-      <h2 data-i18n="about.story.title">ஒரு நடிகையின் பயணம், ஒரு சமூகத்தின் தொடக்கம்</h2>
-      <p data-i18n="about.story.p1">திரிஷா கிருஷ்ணனின் திரைப்பயணம் பல தலைமுறைகளை ஈர்த்துள்ளது. அந்த அன்பை வெறும் பாராட்டாக வைத்திருக்காமல், பயனுள்ள செயல்களாக மாற்றும் ஆசையில் திரிஷா பேரவை உருவானது.</p>
-      <p data-i18n="about.story.p2">இது திரிஷா அல்லது அவரது பிரதிநிதிகளால் தொடங்கப்பட்ட அமைப்பு அல்ல. ஒரு குழு ரசிகர்கள், மரியாதை மற்றும் பொறுப்பை அடிப்படையாகக் கொண்டு உருவாக்கிய சுயாதீன தளம். எங்கள் பெயரிலோ செயல்களிலோ அவரது அதிகாரப்பூர்வ ஆதரவைக் கோரவில்லை.</p>
-      <p data-i18n="about.story.p3">எங்கள் கவனம் எளிய விஷயங்களில்: அர்த்தமுள்ள உரையாடல், தமிழ்க் கலைகளைக் கொண்டாடுதல், கற்றலுக்கு ஆதரவு, சுற்றுச்சூழலைப் பராமரித்தல் மற்றும் மற்றவர்களுக்கு உதவுதல்.</p>
+      <p class="eyebrow" data-i18n="about.story.label">அமைப்பு பின்னணி</p>
+      <h2 data-i18n="about.story.title">மக்கள் சார்ந்த அரசியல்-சமூக தளம்</h2>
+      <p data-i18n="about.story.p1">திரிஷா பேரவை மக்கள் பிரச்சினைகள், ஜனநாயக மதிப்புகள், பொதுக் கொள்கை விழிப்புணர்வு மற்றும் சமூக நல முயற்சிகளை முன்னிலைப்படுத்த உருவாக்கப்படும் ஒரு அமைப்பு தளம்.</p>
+      <p data-i18n="about.story.p2">இந்த தளம் சரிபார்க்கப்பட்ட தகவல்களை மட்டுமே பகிரும். அரசியல் கட்சி பதிவு, அதிகாரப்பூர்வ பதவிகள், கூட்டணிகள் அல்லது ஆதரவுகள் குறித்து உறுதிப்படுத்தப்படாத தகவல்கள் வெளியிடப்படாது.</p>
+      <p data-i18n="about.story.p3">எங்கள் கவனம்: வெளிப்படையான ஆட்சி, கல்வி மற்றும் வேலைவாய்ப்பு, பெண்கள் மற்றும் இளைஞர் மேம்பாடு, சுகாதாரம், விவசாயம், சமூக நீதி, சுற்றுச்சூழல் பாதுகாப்பு மற்றும் தமிழ் மொழி-பண்பாடு.</p>
 
     </div>
   </div>
@@ -158,40 +154,40 @@
   <div class="container">
     <div class="section-head section-head--center reveal">
       <div class="gold-rule"></div>
-      <p class="eyebrow" data-i18n="about.values.label">எங்கள் மதிப்புகள்</p>
-      <h2 data-i18n="about.values.title">நாங்கள் எப்படி நடந்துகொள்கிறோம்</h2>
-      <p data-i18n="about.values.desc">இவை சுவரொட்டி வார்த்தைகள் அல்ல — எங்கள் முடிவுகளை வழிநடத்தும் அளவுகோல்கள்.</p>
+      <p class="eyebrow" data-i18n="about.values.label">அமைப்பு கொள்கைகள்</p>
+      <h2 data-i18n="about.values.title">எங்கள் செயல்பாட்டு கொள்கைகள்</h2>
+      <p data-i18n="about.values.desc">எங்கள் முடிவுகள் மற்றும் தொடர்பு இந்த கொள்கைகளின் அடிப்படையில் வழிநடத்தப்படும்.</p>
     </div>
     <div class="grid grid--3">
         <article class="value-card reveal" data-delay="0">
           <span class="value-card__num">01</span>
-          <h3 data-i18n="about.values.v1.title">மரியாதை</h3>
-          <p data-i18n="about.values.v1.desc">மக்கள், படைப்பாளர்கள், புகைப்படங்கள் மற்றும் தனிப்பட்ட எல்லைகள் — அனைத்தையும் மதிக்கிறோம்.</p>
+          <h3 data-i18n="about.values.v1.title">அரசியலமைப்பு மதிப்பு</h3>
+          <p data-i18n="about.values.v1.desc">ஜனநாயகம், சமத்துவம், சுதந்திரம் மற்றும் சட்ட ஆட்சி மதிப்புகளை மதிக்கிறோம்.</p>
         </article>
         <article class="value-card reveal" data-delay="55">
           <span class="value-card__num">02</span>
-          <h3 data-i18n="about.values.v2.title">சேவை</h3>
-          <p data-i18n="about.values.v2.desc">பேச்சை விட செயலை முன்னிறுத்துகிறோம்; சிறிய, நிலையான பங்களிப்புகளை மதிக்கிறோம்.</p>
+          <h3 data-i18n="about.values.v2.title">வெளிப்படைத்தன்மை</h3>
+          <p data-i18n="about.values.v2.desc">உண்மை, கருத்து, முன்மொழிவு மற்றும் அறிவிப்பு ஆகியவற்றை தெளிவாகப் பிரிக்கிறோம்.</p>
         </article>
         <article class="value-card reveal" data-delay="110">
           <span class="value-card__num">03</span>
-          <h3 data-i18n="about.values.v3.title">பண்பாடு</h3>
-          <p data-i18n="about.values.v3.desc">தமிழ் மொழி, கலை, உணவு, விழாக்கள் மற்றும் உள்ளூர் பாரம்பரியத்தைக் கொண்டாடுகிறோம்.</p>
+          <h3 data-i18n="about.values.v3.title">மக்கள் பங்கேற்பு</h3>
+          <p data-i18n="about.values.v3.desc">பொது மக்களின் கருத்துகள், தேவைகள் மற்றும் அனுபவங்களை கேட்டு முடிவெடுக்கிறோம்.</p>
         </article>
         <article class="value-card reveal" data-delay="165">
           <span class="value-card__num">04</span>
-          <h3 data-i18n="about.values.v4.title">அனைவரும் சேர்ந்த</h3>
-          <p data-i18n="about.values.v4.desc">பின்னணி, வயது, பாலினம், திறன் — எதுவும் பங்கேற்புக்குத் தடையாக இருக்கக் கூடாது.</p>
+          <h3 data-i18n="about.values.v4.title">பொறுப்பான தொடர்பு</h3>
+          <p data-i18n="about.values.v4.desc">சரிபார்க்கப்பட்ட மூலங்கள் இல்லாமல் செய்தி அல்லது கூற்று வெளியிடப்படாது.</p>
         </article>
         <article class="value-card reveal" data-delay="220">
           <span class="value-card__num">05</span>
-          <h3 data-i18n="about.values.v5.title">வெளிப்படைத்தன்மை</h3>
-          <p data-i18n="about.values.v5.desc">நிதி, முடிவுகள், தோல்விகள் — முடிந்தவரை தெளிவாகப் பேசுகிறோம்.</p>
+          <h3 data-i18n="about.values.v5.title">சமூக நீதி</h3>
+          <p data-i18n="about.values.v5.desc">அனைத்து சமூகத்தினருக்கும் சம வாய்ப்பு மற்றும் மரியாதை உறுதிசெய்ய வேண்டும்.</p>
         </article>
         <article class="value-card reveal" data-delay="275">
           <span class="value-card__num">06</span>
-          <h3 data-i18n="about.values.v6.title">பொறுப்பு</h3>
-          <p data-i18n="about.values.v6.desc">தவறான தகவல், துன்புறுத்தல் அல்லது தவறான பயன்பாட்டுக்கு இடம் தரமாட்டோம்.</p>
+          <h3 data-i18n="about.values.v6.title">பொது நல சேவை</h3>
+          <p data-i18n="about.values.v6.desc">கல்வி, சுகாதாரம், சுற்றுச்சூழல் மற்றும் மக்கள் நல முயற்சிகளை ஆதரிக்கிறோம்.</p>
         </article></div>
   </div>
 </section>
@@ -305,7 +301,7 @@
         <p data-i18n="about.cta.desc">மரியாதையுடன் பங்களிக்க விரும்பினால், உங்கள் ஆர்வத்தைப் பதிவு செய்யுங்கள்.</p>
         <div class="cta-band__actions">
           <a class="btn btn--gold" href="members.html"><i data-lucide="user-plus" aria-hidden="true"></i><span data-i18n="home.join.cta">உங்கள் ஆர்வத்தைப் பதிவு செய்</span></a>
-          <a class="btn btn--outline-light" href="vision.html"><i data-lucide="compass" aria-hidden="true"></i><span data-i18n="nav.vision">எங்கள் நோக்கம்</span></a>
+          <a class="btn btn--outline-light" href="vision.html"><i data-lucide="compass" aria-hidden="true"></i><span data-i18n="nav.vision">அரசியல் பார்வை</span></a>
         </div>
       </div>
     </div>
@@ -322,7 +318,7 @@
           <img class="brand__mark" src="assets/images/logo/emblem-96.webp" width="60" height="60" alt="திரிஷா பேரவை சின்னம்" data-i18n-alt="a11y.logo" loading="lazy">
           <span class="brand__text"><span class="brand__kicker" data-i18n="brand.kicker">இளைய புரட்சித் தலைவி</span><span class="brand__name" data-i18n="brand.name">திரிஷா பேரவை</span><span class="brand__sub" data-i18n="brand.sub">TRISHA PERAVAI</span></span>
         </a>
-        <p class="footer-intro" data-i18n="footer.intro">தமிழ் கலை, கல்வி, பெண்கள் முன்னேற்றம் மற்றும் சமூக சேவையைக் கொண்டாடும் சமூகம். மரியாதையுடன் கேட்போம், பொறுப்புடன் செயல்படுவோம்.</p>
+        <p class="footer-intro" data-i18n="footer.intro">ஜனநாயக மதிப்புகள், மக்கள் நலன், அரசியல் விழிப்புணர்வு மற்றும் சமூக மேம்பாட்டுக்காக செயல்படும் அமைப்பு தளம்.</p>
         <div class="footer-socials">
           <a href="https://www.instagram.com/trishakrishnan/" target="_blank" rel="noopener noreferrer"
             aria-label="திரிஷா கிருஷ்ணன் அதிகாரப்பூர்வ Instagram" data-i18n-aria-label="ui.officialInstagram">
@@ -341,12 +337,12 @@
 
       <div class="footer-col">
         <h3 data-i18n="footer.explore">வலைத்தளம்</h3>
-        <ul class="footer-links"><li><a href="index.html" data-i18n="nav.home">முகப்பு</a></li><li><a href="about.html" data-i18n="nav.about">எங்களைப் பற்றி</a></li><li><a href="vision.html" data-i18n="nav.vision">எங்கள் நோக்கம்</a></li><li><a href="gallery.html" data-i18n="nav.gallery">படத்தொகுப்பு</a></li></ul>
+        <ul class="footer-links"><li><a href="index.html" data-i18n="nav.home">முகப்பு</a></li><li><a href="about.html" data-i18n="nav.about">எங்களைப் பற்றி</a></li><li><a href="vision.html" data-i18n="nav.vision">அரசியல் பார்வை</a></li><li><a href="gallery.html" data-i18n="nav.gallery">படத்தொகுப்பு</a></li></ul>
       </div>
 
       <div class="footer-col">
         <h3 data-i18n="footer.involved">பங்கேற்க</h3>
-        <ul class="footer-links"><li><a href="news.html" data-i18n="nav.news">செய்திகள்</a></li><li><a href="events.html" data-i18n="nav.events">நிகழ்வுகள்</a></li><li><a href="members.html" data-i18n="nav.members">உறுப்பினர்கள்</a></li><li><a href="contact.html" data-i18n="nav.contact">தொடர்பு</a></li></ul>
+        <ul class="footer-links"><li><a href="news.html" data-i18n="nav.news">அரசியல் புதுப்பிப்புகள்</a></li><li><a href="events.html" data-i18n="nav.events">நிகழ்வுகள்</a></li><li><a href="members.html" data-i18n="nav.members">உறுப்பினர்</a></li><li><a href="contact.html" data-i18n="nav.contact">தொடர்பு</a></li></ul>
       </div>
 
       <div class="footer-col">
@@ -381,7 +377,7 @@
         <i data-lucide="shield-alert" aria-hidden="true"></i>
         <div>
           <h4 data-i18n="footer.disclaimerTitle">முக்கிய குறிப்பு</h4>
-          <p data-i18n="footer.disclaimer">இந்த இணையதளம் திரிஷா கிருஷ்ணன் அல்லது அவரது பிரதிநிதிகளால் இயக்கப்படவோ, ஆதரிக்கப்படவோ, அதிகாரப்பூர்வமாக இணைக்கப்படவோ இல்லை. இது ஒரு சுயாதீன ரசிகர் சமூக தளம். எந்தவொரு அரசியல் வேட்புமனு, கட்சி இணைப்பு அல்லது ஆதரவும் இதில் குறிக்கப்படவில்லை.</p>
+          <p data-i18n="footer.disclaimer">இந்த இணையதளம் தகவல் மற்றும் பொழுதுபோக்கு நோக்கங்களுக்காக மட்டுமே. யாரையும் புண்படுத்துவது எங்கள் நோக்கமல்ல.</p>
         </div>
       </div>
     </div>
@@ -390,9 +386,11 @@
     <div class="footer-bottom">
       <p>
         <span data-year-text="footer.rights">© 2026 திரிஷா பேரவை. தளத்தின் அசல் உள்ளடக்கம்.</span>
-        <br><span data-i18n="footer.made">அன்புடனும் மரியாதையுடனும் ரசிகர் சமூகத்தால் உருவாக்கப்பட்டது</span>
+        <br><span data-i18n="footer.made">அன்பும் மரியாதையும் கொண்டு உருவாக்கப்பட்டது</span>
       </p>
       <div class="footer-bottom__links">
+        <a href="privacy.html" data-i18n="nav.privacy">தனியுரிமைக் கொள்கை</a>
+        <a href="terms.html" data-i18n="nav.terms">விதிமுறைகள்</a>
         <a href="credits.html" data-i18n="common.creditsLink">படங்கள் &amp; உரிமைகள்</a>
         <a href="members.html" data-i18n="nav.join">எங்களுடன் இணைக</a>
         <button class="btn btn--outline-light btn--sm" type="button" data-back-to-top>
